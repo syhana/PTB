@@ -36,24 +36,6 @@
             android:onClick="pindahHome"
             android:src="@drawable/back_pink" />
 
-        <Button
-            android:id="@+id/button3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:backgroundTint="@color/white"
-            android:text="Button"
-            android:textColor="@color/white" />
-
-        <Button
-            android:id="@+id/button2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="end"
-            android:backgroundTint="@color/pink"
-            android:fontFamily="@font/poppins_extrabold"
-            android:text="Tambah Anak"
-            android:textColor="@android:color/white" />
     </LinearLayout>
     <ScrollView
         android:layout_width="match_parent"
